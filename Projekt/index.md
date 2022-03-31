@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
         <title>Technik Programista</title>
+	</head>
 <body>
 <p>Test</p>
 </body>
