@@ -1,10 +1,12 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8" />
-        <title>Technik Programista</title>
-	</head>
+<head>
+  <title>HTML Elements Reference</title>
+</head>
 <body>
-<p>Test</p>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
